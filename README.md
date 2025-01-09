@@ -24,7 +24,7 @@ ros2 run simple_subscriber listener
 And observe the output on both terminals! This is a basic publisher and subscriber setup to give participants an intuition behind ROS concepts like Nodes, Topics, Publishers and Subscribers.
 
 # Running `turtlefun`
-You will need at least x terminals for the full experience
+You will need at least 5 terminals for the full experience
 On one terminal, start up `turtlesim` with
 ```
 ros2 run turtlesim turtlesim_node
