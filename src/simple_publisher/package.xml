@@ -7,6 +7,7 @@
   <maintainer email="averageandyyy@gmail.com">averageandyyy</maintainer>
   <license>TODO: License declaration</license>
 
+  <!-- Added dependencies -->
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
 
